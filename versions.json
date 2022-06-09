@@ -1,1 +1,122 @@
-[{"version": "tier4-proposal", "title": "tier4-proposal", "aliases": []}, {"version": "pr-84", "title": "pr-84", "aliases": []}, {"version": "pr-83", "title": "pr-83", "aliases": []}, {"version": "pr-81", "title": "pr-81", "aliases": []}, {"version": "pr-80", "title": "pr-80", "aliases": []}, {"version": "pr-79", "title": "pr-79", "aliases": []}, {"version": "pr-77", "title": "pr-77", "aliases": []}, {"version": "pr-75", "title": "pr-75", "aliases": []}, {"version": "pr-74", "title": "pr-74", "aliases": []}, {"version": "pr-73", "title": "pr-73", "aliases": []}, {"version": "pr-72", "title": "pr-72", "aliases": []}, {"version": "pr-71", "title": "pr-71", "aliases": []}, {"version": "pr-70", "title": "pr-70", "aliases": []}, {"version": "pr-69", "title": "pr-69", "aliases": []}, {"version": "pr-68", "title": "pr-68", "aliases": []}, {"version": "pr-66", "title": "pr-66", "aliases": []}, {"version": "pr-65", "title": "pr-65", "aliases": []}, {"version": "pr-62", "title": "pr-62", "aliases": []}, {"version": "pr-44", "title": "pr-44", "aliases": []}, {"version": "pr-34", "title": "pr-34", "aliases": []}, {"version": "pr-28", "title": "pr-28", "aliases": []}, {"version": "pr-26", "title": "pr-26", "aliases": []}, {"version": "pr-3", "title": "pr-3", "aliases": []}]
+[
+  {
+    "version": "tier4-proposal",
+    "title": "tier4-proposal",
+    "aliases": []
+  },
+  {
+    "version": "pr-84",
+    "title": "pr-84",
+    "aliases": []
+  },
+  {
+    "version": "pr-83",
+    "title": "pr-83",
+    "aliases": []
+  },
+  {
+    "version": "pr-81",
+    "title": "pr-81",
+    "aliases": []
+  },
+  {
+    "version": "pr-80",
+    "title": "pr-80",
+    "aliases": []
+  },
+  {
+    "version": "pr-79",
+    "title": "pr-79",
+    "aliases": []
+  },
+  {
+    "version": "pr-77",
+    "title": "pr-77",
+    "aliases": []
+  },
+  {
+    "version": "pr-75",
+    "title": "pr-75",
+    "aliases": []
+  },
+  {
+    "version": "pr-74",
+    "title": "pr-74",
+    "aliases": []
+  },
+  {
+    "version": "pr-73",
+    "title": "pr-73",
+    "aliases": []
+  },
+  {
+    "version": "pr-72",
+    "title": "pr-72",
+    "aliases": []
+  },
+  {
+    "version": "pr-71",
+    "title": "pr-71",
+    "aliases": []
+  },
+  {
+    "version": "pr-70",
+    "title": "pr-70",
+    "aliases": []
+  },
+  {
+    "version": "pr-69",
+    "title": "pr-69",
+    "aliases": []
+  },
+  {
+    "version": "pr-68",
+    "title": "pr-68",
+    "aliases": []
+  },
+  {
+    "version": "pr-66",
+    "title": "pr-66",
+    "aliases": []
+  },
+  {
+    "version": "pr-65",
+    "title": "pr-65",
+    "aliases": []
+  },
+  {
+    "version": "pr-62",
+    "title": "pr-62",
+    "aliases": []
+  },
+  {
+    "version": "pr-44",
+    "title": "pr-44",
+    "aliases": []
+  },
+  {
+    "version": "pr-34",
+    "title": "pr-34",
+    "aliases": []
+  },
+  {
+    "version": "pr-28",
+    "title": "pr-28",
+    "aliases": []
+  },
+  {
+    "version": "pr-26",
+    "title": "pr-26",
+    "aliases": []
+  },
+  {
+    "version": "pr-3",
+    "title": "pr-3",
+    "aliases": []
+  },
+  {
+    "version": "main",
+    "title": "main",
+    "aliases": []
+  }
+]
